@@ -1,8 +1,8 @@
 # ASMK_yoda
 ## Training : @Jupyterlab
 #### 実行用ノートブック：Jupyterlab_exe.ipynb
-###### ※ASMK_yoda/howの中身は変更済み
-###### （変更点はコメントアウト記載）
+ ※ASMK_yoda/howの中身は変更済み
+ （変更点はコメントアウト記載）
 ###### ※ディレクトリ構成に応じてディレクトリ名を変更
 #### /how/stages/train_Jupyter.pyを/how/stages/train.pyに変更して実行
 ######  → 学習開始 → 5エポックごとに中断(/how/how_temp/temp.pthにパラメータが保存)
