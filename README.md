@@ -1,3 +1,3 @@
 # ASMK_yoda
-Training : @Jupyterlab
-Evaluating : @Google Colab
+# Training : @Jupyterlab
+# Evaluating : @Google Colab
