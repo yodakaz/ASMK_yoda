@@ -1,6 +1,6 @@
 # ASMK_yoda
 ## Training : @Jupyterlab
-###### 実行用ノートブック：Jupyterlab_exe.ipynb
+#### 実行用ノートブック：Jupyterlab_exe.ipynb
 ※ASMK_yoda/howの中身は変更済み
 （変更点はコメントアウト記載）
 ※ディレクトリ構成に応じてディレクトリ名を変更
