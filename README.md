@@ -1,3 +1,5 @@
 # ASMK_yoda
-# Training : @Jupyterlab
-# Evaluating : @Google Colab
+## Training : @Jupyterlab
+Jupyter_exe.ipynb
+
+## Evaluating : @Google Colab
