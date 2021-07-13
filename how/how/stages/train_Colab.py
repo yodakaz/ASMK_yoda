@@ -75,7 +75,7 @@ def train(demo_train, training, validation, model, globals):
             print("net_params : ", model)
             print("losslogger : ", train_loss)
             #print("state_dict : ", net.state_dict())
-            print("######loaded at %d#######"%(epoch+1))
+            print("######loaded at %d#######"%(epoch))
             
             
         #epoch1 = epoch + 1 + start_epoch
