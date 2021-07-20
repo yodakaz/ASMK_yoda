@@ -9,11 +9,11 @@
   → temp.pthから学習パラメータを読み込んで再開
 
 ## Evaluating : @Google Colab
-#### 実行用ノートブック：Githubから実行5.0.ipynb
+#### ~~実行用ノートブック：Githubから実行5.0.ipynb
 #### Jupyterで学習した/how/how_temp/temp.pthをコピー
  ※5、10、15、20エポックまで学習済みのtemp.pthを使用
 #### /how/stages/train_Colab.pyを/how/stages/train.pyに変更して実行
-  → 5、10、15、20エポックまでの学習結果を用いて評価開始
+  → 5、10、15、20エポックまでの学習結果を用いて評価開始~~
 
 #### 実行用ノートブック：Githubから実行5.1.ipynb
 #### Jupyterで学習した/how/how_temp/temp.pthをGoogle driveからマウント
